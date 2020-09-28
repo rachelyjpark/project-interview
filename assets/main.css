@@ -1,0 +1,315 @@
+h1 {
+  text-align: center;
+  color: white; 
+    background-color:#c6c6b9;
+    font-size: 50px;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+  left: 0;
+
+
+}
+
+
+
+  blockquote {
+  font-family: times new roman;
+  color: #8c8c73;
+  
+}
+
+blockquote {
+  font-weight: 100;
+  font-size: 20px;
+  max-width: 600px;
+  line-height: 1.4;
+  position: relative;
+  left: 320px;
+  margin: 10px;
+  padding: 15px;
+  
+}
+
+blockquote:before,
+blockquote:after {
+  position: absolute;
+  color: #f1efe6;
+  font-size: 6rem;
+  width: 1rem;
+  height: 4rem;
+}
+
+blockquote:before {
+  content: '“';
+  left: -5rem;
+  top: -2rem;
+}
+
+blockquote:after {
+  content: '”';
+  right: -2rem;
+  bottom: 1rem;
+}
+
+
+body {
+  background-color:#c6c6b9;
+  margin: 10px;
+  font-family: avenir;
+  font-size: 20px;
+  border: 30px solid #efede7;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  padding: 35px;
+
+}
+
+.name {
+  text-align: center;
+  font-family: noto sans bold, sans-serif;
+  font-size: 16px;
+  color: #f1efe6;
+  padding: 5px;
+}
+
+.question-container {
+  text-align: center;
+ color: #efede7;
+  background:#c1abad;
+   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  margin: 25px;
+  padding: 15px;;
+  font-family: Times New Roman, serif;
+  font-size: 30px;
+
+}
+
+
+
+.answer-container {
+  text-align: center;
+  color:#c1abad;
+  background: #efede7;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+	font-family:Times New Roman, serif; 
+	font-size: 30px;
+   margin: 20px;
+  padding: 15px;
+}
+
+.question-container2 {
+  text-align: center;
+  color: #efede7;
+  background:#c1abad;
+ border-radius: 355px 50px 225px 30px/25px 225px 20px 255px;
+  margin: 25px;
+  padding: 15px;
+  font-family: Times New Roman, serif;
+  font-size: 30px;
+
+}
+.speaker-1 {
+  font-family: noto sans bold, sans-serif;
+  color: white;
+  font-size: 18px;
+  padding: 20px;
+}
+
+
+.answer-container2 {
+  text-align: center;
+  color:#c1abad;
+  background: #efede7;
+border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  font-family: Times New Roman, serif; 
+  font-size: 30px;
+  padding: 15px;
+  margin: 20px;
+}
+
+.speaker-2 {
+  font-family:noto sans, sans-serif;
+  color: #9d7b7f;
+  text-align: left;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.question-container3 {
+  text-align: center;
+  color: #efede7;
+  background:#c1abad;
+  border-radius: 140px 15px 225px 30px/15px 225px 15px 255px;
+ margin: 25px;
+  padding: 15px;
+  font-family:Times New Roman, serif;
+  font-size: 30px;
+}
+
+.answer-container3 {
+  text-align: center;
+ color:#c1abad;
+  background: #efede7;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  font-family: Times New Roman, serif; 
+  font-size: 30px;
+ margin: 20px;
+  padding: 15px;
+}
+
+.question-container4 {
+  text-align: center;
+  color: #efede7;
+  background:#c1abad;
+ border-radius: 355px 50px 225px 30px/25px 225px 20px 255px;
+ margin: 25px;
+  padding: 15px;
+  font-family:Times New Roman, serif;
+  font-size:30px;
+}
+
+.answer-container4 {
+  text-align: center;
+  color:#c1abad;
+  background: #efede7;
+  border-radius: 255px 40px 225px 15px/15px 225px 15px 255px;
+  font-family: Times New Roman, serif; 
+  font-size: 30px;
+ margin: 20px;
+  padding: 15px;
+
+}
+
+.question-container5 {
+  text-align: center;
+   color: #efede7;
+  background:#c1abad;
+  border-radius:255px 40px 225px 15px/15px 225px 15px 255px;
+   margin: 25px;
+  padding: 15px;
+  font-family: Times New Roman, serif;
+  font-size: 30px;
+
+}
+
+.answer-container5 {
+  text-align: center;
+ color:#c1abad;
+  background: #efede7;
+  border-radius: 255px 40px 225px 15px/15px 225px 15px 255px;
+  font-family: Times New Roman, serif; 
+  font-size: 30px;
+  margin: 20px;
+  padding: 15px;
+}
+
+.question-container6 {
+  text-align: center;
+  color: #efede7;
+  background:#c1abad;
+  border-radius: 355px 50px 225px 30px/25px 225px 20px 255px;
+ margin: 25px;
+  padding: 15px;
+  font-family:Times New Roman, serif;
+  font-size: 30px;
+}
+
+.answer-container6 {
+  text-align: center;
+ color:#c1abad;
+  background: #efede7;
+  border-radius: 255px 40px 225px 15px/15px 225px 15px 255px;
+  font-family:Times New Roman, serif; 
+  font-size: 30px;
+  margin: 20px;
+  padding: 15px;
+}
+
+.question-container7 {
+    text-align: center;
+   color: #efede7;
+  background:#c1abad;
+  border-radius:255px 40px 225px 15px/15px 225px 15px 255px;
+  margin: 25px;
+  padding: 15px;
+  font-family: Times New Roman, serif;
+  font-size: 30px;
+}
+
+.answer-container7 {
+  text-align: center;
+ color:#c1abad;
+  background: #efede7;
+  border-radius: 255px 40px 225px 15px/15px 225px 15px 255px;
+  font-family: Times New Roman, serif; 
+  font-size: 30px;
+ margin: 20px;
+  padding: 15px;
+}
+
+.question-container9 {
+      text-align: center;
+  color: #efede7;
+  background:#c1abad;
+ border-radius: 355px 50px 225px 30px/25px 225px 20px 255px;
+  margin: 25px;
+  padding: 15px;
+  font-family: Times New Roman, serif;
+  font-size: 30px;
+}
+
+.answer-container9 {
+    text-align: center;
+ color:#c1abad;
+  background: #efede7;
+  border-radius: 255px 40px 225px 15px/15px 225px 15px 255px;
+  font-family: Times New Roman, serif; 
+  font-size: 30px;
+   margin: 20px;
+  padding: 15px;
+}
+
+.question-container10 {
+  text-align: center;
+  color: #efede7;
+  background:#c1abad;
+   border-radius: 140px 15px 225px 30px/15px 225px 15px 255px;
+  margin: 25px;
+  padding: 15px;
+  font-family:Times New Roman, serif;
+  font-size: 30px;
+}
+
+.answer-container10 {
+    text-align: center;
+ color:#c1abad;
+  background: #efede7;
+  border-radius:255px 40px 225px 15px/15px 225px 15px 255px;
+  font-family: Times New Roman, serif; 
+  font-size: 30px;
+ margin: 20px;
+  padding: 15px;
+}
+
+.question-container11 {
+    text-align: center;
+  color: #efede7;
+  background:#c1abad;
+ border-radius: 300px 50px 270px 30px/25px 290px 20px 255px;
+  margin: 25px;
+  padding: 15px;
+  font-family: Times New Roman, serif;
+  font-size: 30px;
+}
+
+.answer-container11 {
+      text-align: center;
+ color:#c1abad;
+  background: #efede7;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  font-family: Times New Roman, serif; 
+  font-size: 30px;
+   margin: 20px;
+  padding: 15px;
+}
+
